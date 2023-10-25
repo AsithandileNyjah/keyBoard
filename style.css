@@ -1,0 +1,26 @@
+.keyboard {
+}
+.key {
+    width: 60px;
+    height: 40px;
+    border: 1px solid #ccc;
+    margin: 2px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.key:hover {
+        background-color: #ccc;
+}
+.keyBackSpace:hover {
+    background-color: #ccc;
+}
+.keyBackSpace {
+    width: 120px;
+    height: 40px;
+    border: 1px solid #ccc;
+    margin: 2px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
