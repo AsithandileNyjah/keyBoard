@@ -6,7 +6,7 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    border-radius: 75%;
+    border-radius: 30%;
 }
 .key:hover {
         background-color: #ccc;
@@ -22,6 +22,7 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    border-radius: 25%;
 }
 .keySFT {
     width: 150px;
@@ -31,6 +32,7 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    
 }
 .keySFT:hover {
         background-color: #ccc;
